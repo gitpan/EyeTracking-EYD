@@ -21,7 +21,7 @@ my %WriteMakefileArgs = (
   "NAME" => "EyeTracking::EYD",
   "PREREQ_PM" => {},
   "TEST_REQUIRES" => {},
-  "VERSION" => "0.1",
+  "VERSION" => "0.1.1",
   "test" => {
     "TESTS" => ""
   }
